@@ -1,4 +1,4 @@
-package com.chida.microservices.dcpca.userregistration.controller;
+package com.chida.microservices.dcpca.userRegistration.controller;
 
 import org.springframework.web.bind.annotation.*;
 

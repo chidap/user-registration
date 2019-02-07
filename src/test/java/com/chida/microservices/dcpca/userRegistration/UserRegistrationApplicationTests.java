@@ -1,4 +1,4 @@
-package com.chida.microservices.dcpca.userregistration;
+package com.chida.microservices.dcpca.userRegistration;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
