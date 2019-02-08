@@ -1,5 +1,6 @@
 package com.chida.microservices.dcpca.userRegistration.controller;
 
+import com.chida.microservices.dcpca.userRegistration.model.request.MemberDetailsRequestModel;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
